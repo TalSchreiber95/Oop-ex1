@@ -104,6 +104,10 @@ Well i run by src node and run on his neighbor and set on their tag the edge wei
 then on their neighbors i set on their tag the minimum edge tag and their minimun tag,
 and so on i keep checking and making sure that i set the minimum weight path.
 
+![alt text](https://upload.wikimedia.org/wikipedia/commons/5/57/Dijkstra_Animation.gif)
+
+
+
 public boolean save(String file) || public boolean load(String file) 
 Well in this both function i've used serializable's library
 get the file to filestream object and then place him on an object.
